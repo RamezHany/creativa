@@ -60,7 +60,7 @@ When a company creates an event, a registration form is generated containing:
 ### **Frontend**
 - **React.js** → UI components & state management.
 - **Next.js** → Server-side rendering & API routes.
-- **Tailwind CSS / Material UI** → Responsive UI.
+- **Tailwind CSS ** → Responsive UI.
 
 ### **Backend**
 - **Next.js API Routes** → Handles authentication & CRUD operations.

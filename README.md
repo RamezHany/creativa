@@ -43,6 +43,10 @@ This system is designed to manage companies and their events efficiently. It inc
 - View all company events.
 - View participants (without National ID visibility).
 - Export event data in **CSV, XLS, PDF** formats.
+- **Automatic Registration Form Generation**:
+  - When a company creates an event, the system automatically generates a **unique registration form** for that event.
+  - The form includes the same event **name, description, and image**.
+  - A **unique event registration link** is provided for the company to share with participants.
 
 ---
 ### **Participant Registration Form**
@@ -89,7 +93,8 @@ When a company creates an event, a registration form is generated containing:
   "name": "Event Name",
   "description": "Event details",
   "image": "event_image_url",
-  "date": "2025-01-20T12:00:00Z"
+  "date": "2025-01-20T12:00:00Z",
+  "registrationLink": "https://example.com/events/event_uuid/register"
 }
 ```
 ##### **Participants**
@@ -157,7 +162,5 @@ When a company creates an event, a registration form is generated containing:
 ### **Hosting & Services**
 - **Vercel** → Deploying Next.js frontend & backend.
 - **MongoDB Atlas** → Cloud-based database hosting.
-- **AWS S3 / Cloudinary / github** → Secure file storage.
-
-
+- **AWS S3 / Cloudinary /Github api** → Secure file storage.
 

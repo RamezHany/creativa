@@ -157,7 +157,7 @@ When a company creates an event, a registration form is generated containing:
 ### **Hosting & Services**
 - **Vercel** → Deploying Next.js frontend & backend.
 - **MongoDB Atlas** → Cloud-based database hosting.
-- **AWS S3 / Cloudinary / github ** → Secure file storage.
+- **AWS S3 / Cloudinary / github** → Secure file storage.
 
 
 

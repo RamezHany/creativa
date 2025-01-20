@@ -157,16 +157,7 @@ When a company creates an event, a registration form is generated containing:
 ### **Hosting & Services**
 - **Vercel** → Deploying Next.js frontend & backend.
 - **MongoDB Atlas** → Cloud-based database hosting.
-- **AWS S3 / Cloudinary** → Secure file storage.
+- **AWS S3 / Cloudinary / github ** → Secure file storage.
 
----
-## 7. Additional Features
-✅ **Role-based access control (RBAC).**  
-✅ **Automated email notifications on participant registration.**  
-✅ **Search & filtering options for companies and events.**  
-✅ **Dashboard with insights & analytics on event participation.**  
-✅ **Multi-language support (English, Arabic, etc.).**  
 
----
-### **Would you like any modifications or additional features?** 🚀
 
